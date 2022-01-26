@@ -1,2 +1,2 @@
 # while_foreach
-C# - 4.Hafta > While Foreach
+* C# - 4.Hafta > While Foreach
